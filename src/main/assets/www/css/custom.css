@@ -99,13 +99,13 @@ header.header.test .navigation.expand {
     box-sizing: border-box;
 }
 .sticky__body {
-    margin-bottom: 152px;
+    margin-bottom: 210px;
 }
 .sticky__footer {
     position: absolute;
     bottom: 0;
     width: 100%;
-    height: 122px;
+    height: 155px;
     box-sizing: border-box;
 }
 .container-fluid {
